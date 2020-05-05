@@ -1,6 +1,6 @@
 {
   "name": "package-tracker-ptbr",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Rastreios dos pacotes enviados por transportadoras no brasil",
   "repository": {
     "url": "https://github.com/dougecomp/package-tracker"
