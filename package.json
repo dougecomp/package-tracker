@@ -2,13 +2,15 @@
   "name": "package-tracker-ptbr",
   "version": "1.0.1",
   "description": "Rastreios dos pacotes enviados por transportadoras no brasil",
+  "main": "src/package-tracker.js",
   "repository": {
+    "type": "git",
     "url": "https://github.com/dougecomp/package-tracker"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["package-tracker"],
   "author": "",
   "license": "ISC",
   "dependencies": {
