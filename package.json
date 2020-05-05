@@ -1,6 +1,6 @@
 {
   "name": "package-tracker-ptbr",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Rastreios dos pacotes enviados por transportadoras no brasil",
   "main": "src/package-tracker.js",
   "repository": {
