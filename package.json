@@ -1,8 +1,10 @@
 {
-  "name": "package-tracker",
+  "name": "package-tracker-ptbr",
   "version": "1.0.0",
-  "description": "Rastreios dos pacotes enviados por transportadoras",
-  "main": "index.js",
+  "description": "Rastreios dos pacotes enviados por transportadoras no brasil",
+  "repository": {
+    "url": "https://github.com/dougecomp/package-tracker"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
