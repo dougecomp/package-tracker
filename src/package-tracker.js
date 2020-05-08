@@ -5,9 +5,9 @@ const {
 
 module.exports = {
     async fetchEventsFromAzulCargoExpress(trackNumber) {
-        await azulcargoexpress.extractEventsFromTrackNumber(trackNumber);
+        return await azulcargoexpress.extractEventsFromTrackNumber(trackNumber);
     },
     async fetchEventsFromEasyCourier(trackNumber) {
-        await easycourier.extractEventsFromTrackNumber(trackNumber);
+        return await easycourier.extractEventsFromTrackNumber(trackNumber);
     }
 }
